@@ -1,34 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ruife\\source\\repos\\AuthenticationService\\",
+  "WorkspaceRootPath": "C:\\Users\\ruife\\source\\repos\\AuthenticationServiceApplication\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D7DAFEB4-57BB-43B1-BE44-D20CA69BF683}|..\\AuthenticationService.Client.Core\\AuthenticationService.Client.Core.csproj|c:\\users\\ruife\\source\\repos\\authenticationservice.client.core\\authenticationservice.client.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D7DAFEB4-57BB-43B1-BE44-D20CA69BF683}|..\\AuthenticationService.Client.Core\\AuthenticationService.Client.Core.csproj|c:\\users\\ruife\\source\\repos\\authenticationservice.client.core\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BEBDEA3F-DAFC-4C44-A5A2-254248635477}|AuthenticationService.csproj|c:\\users\\ruife\\source\\repos\\authenticationservice\\protos\\authentication.proto||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{BEBDEA3F-DAFC-4C44-A5A2-254248635477}|AuthenticationService.csproj|solutionrelative:protos\\authentication.proto||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BEBDEA3F-DAFC-4C44-A5A2-254248635477}|AuthenticationService.csproj|c:\\users\\ruife\\source\\repos\\authenticationservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BEBDEA3F-DAFC-4C44-A5A2-254248635477}|AuthenticationService.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BEBDEA3F-DAFC-4C44-A5A2-254248635477}|AuthenticationService.csproj|c:\\users\\ruife\\source\\repos\\authenticationservice\\authenticationservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{BEBDEA3F-DAFC-4C44-A5A2-254248635477}|AuthenticationService.csproj|solutionrelative:authenticationservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D7DAFEB4-57BB-43B1-BE44-D20CA69BF683}|..\\AuthenticationService.Client.Core\\AuthenticationService.Client.Core.csproj|c:\\users\\ruife\\source\\repos\\authenticationservice.client.core\\petstore.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BEBDEA3F-DAFC-4C44-A5A2-254248635477}|AuthenticationService.csproj|c:\\users\\ruife\\source\\repos\\authenticationservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{BEBDEA3F-DAFC-4C44-A5A2-254248635477}|AuthenticationService.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ruife\\source\\repos\\AuthenticationService.Client.Core\\obj\\PetStoreClient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D7DAFEB4-57BB-43B1-BE44-D20CA69BF683}|AuthenticationService.Client.Core\\AuthenticationService.Client.Core.csproj|c:\\users\\ruife\\source\\repos\\authenticationserviceapplication\\authenticationservice.client.core\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7DAFEB4-57BB-43B1-BE44-D20CA69BF683}|AuthenticationService.Client.Core\\AuthenticationService.Client.Core.csproj|solutionrelative:authenticationservice.client.core\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,110 +14,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Authentication.proto",
-              "DocumentMoniker": "C:\\Users\\ruife\\source\\repos\\AuthenticationService\\Protos\\Authentication.proto",
-              "RelativeDocumentMoniker": "Protos\\Authentication.proto",
-              "ToolTip": "C:\\Users\\ruife\\source\\repos\\AuthenticationService\\Protos\\Authentication.proto",
-              "RelativeToolTip": "Protos\\Authentication.proto",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEwAAAAUAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003853|",
-              "WhenOpened": "2024-06-27T20:57:52.63Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ruife\\source\\repos\\AuthenticationService\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\ruife\\source\\repos\\AuthenticationService\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAACoAAAAAAAAAAAAAAEMAAABXAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-20T22:10:49.569Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\ruife\\source\\repos\\AuthenticationService.Client.Core\\Class1.cs",
-              "RelativeDocumentMoniker": "..\\AuthenticationService.Client.Core\\Class1.cs",
-              "ToolTip": "C:\\Users\\ruife\\source\\repos\\AuthenticationService.Client.Core\\Class1.cs",
-              "RelativeToolTip": "..\\AuthenticationService.Client.Core\\Class1.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAxwB0AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-20T22:07:45.137Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "AuthenticationService.csproj",
-              "DocumentMoniker": "C:\\Users\\ruife\\source\\repos\\AuthenticationService\\AuthenticationService.csproj",
-              "RelativeDocumentMoniker": "AuthenticationService.csproj",
-              "ToolTip": "C:\\Users\\ruife\\source\\repos\\AuthenticationService\\AuthenticationService.csproj",
-              "RelativeToolTip": "AuthenticationService.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-06-20T22:07:19.513Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "PetStoreClient.cs",
-              "DocumentMoniker": "C:\\Users\\ruife\\source\\repos\\AuthenticationService.Client.Core\\obj\\PetStoreClient.cs",
-              "RelativeDocumentMoniker": "..\\AuthenticationService.Client.Core\\obj\\PetStoreClient.cs",
-              "ToolTip": "C:\\Users\\ruife\\source\\repos\\AuthenticationService.Client.Core\\obj\\PetStoreClient.cs",
-              "RelativeToolTip": "..\\AuthenticationService.Client.Core\\obj\\PetStoreClient.cs",
-              "ViewState": "AQIAAKsIAAAAAAAAAAAEwLMIAAAdAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-20T22:06:27.177Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "PetStore.json",
-              "DocumentMoniker": "C:\\Users\\ruife\\source\\repos\\AuthenticationService.Client.Core\\PetStore.json",
-              "RelativeDocumentMoniker": "..\\AuthenticationService.Client.Core\\PetStore.json",
-              "ToolTip": "C:\\Users\\ruife\\source\\repos\\AuthenticationService.Client.Core\\PetStore.json",
-              "RelativeToolTip": "..\\AuthenticationService.Client.Core\\PetStore.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-06-20T22:05:16.516Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\ruife\\source\\repos\\AuthenticationService\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\ruife\\source\\repos\\AuthenticationService\\Properties\\launchSettings.json",
-              "RelativeToolTip": "Properties\\launchSettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-06-20T22:14:40.65Z"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "AuthenticationService.Client.Core.csproj",
-              "DocumentMoniker": "C:\\Users\\ruife\\source\\repos\\AuthenticationService.Client.Core\\AuthenticationService.Client.Core.csproj",
-              "RelativeDocumentMoniker": "..\\AuthenticationService.Client.Core\\AuthenticationService.Client.Core.csproj",
-              "ToolTip": "C:\\Users\\ruife\\source\\repos\\AuthenticationService.Client.Core\\AuthenticationService.Client.Core.csproj",
-              "RelativeToolTip": "..\\AuthenticationService.Client.Core\\AuthenticationService.Client.Core.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAKAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-06-20T22:05:19.941Z",
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\ruife\\source\\repos\\AuthenticationServiceApplication\\AuthenticationService.Client.Core\\Class1.cs",
+              "RelativeDocumentMoniker": "AuthenticationService.Client.Core\\Class1.cs",
+              "ToolTip": "C:\\Users\\ruife\\source\\repos\\AuthenticationServiceApplication\\AuthenticationService.Client.Core\\Class1.cs",
+              "RelativeToolTip": "AuthenticationService.Client.Core\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T21:53:28.465Z",
               "EditorCaption": ""
             }
           ]
