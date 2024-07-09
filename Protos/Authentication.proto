@@ -5,24 +5,44 @@ option csharp_namespace = "AuthenticationService.Services";
 
 package Authentication;
 
+//Authentication Service
 service Authentication {
+  //POST Method to perform the Sign In
   rpc SignIn (SignInRequest) returns (SignInReply){
     option (google.api.http) = {
       post: "/Authentication/Register"
       body: "credentials"
     };
   }
+  //POST Method to perform the Log In
   rpc Login (LoginRequest) returns (LoginReply){
     option (google.api.http) = {
       post: "/Authentication/Login"
       body: "credentials"
     };
   }
+  //GET Method to fetch currently registered users
   rpc GetRegisteredUsers (google.protobuf.Empty) returns (GetRegisteredUsersReply){
     option (google.api.http) = {
       get: "/Authentication/GetUsers"
     };
   }
+
+  // Sends a greeting.
+  rpc SayHello (HelloRequest) returns (HelloReply) {
+    option (google.api.http) = {
+      get: "/v1/greeter/{name}"
+    };
+  }
+}
+
+message HelloRequest {
+  // Name to say hello to.
+  string name = 1;
+}
+message HelloReply {
+  // Hello reply message.
+  string message = 1;
 }
 
 message SignInRequest {
@@ -36,6 +56,7 @@ message LoginReply {
 }
 
 message LoginRequest {
+  //Credentials Object for Login
   UserCredentials credentials = 1;
 }
 
@@ -51,6 +72,8 @@ message GetRegisteredUsersReply {
 }
 
 message UserCredentials{
+    //Login Username
     string username = 1;
+    //Login Password
     string password = 2;
 }

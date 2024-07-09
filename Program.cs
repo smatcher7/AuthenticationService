@@ -65,7 +65,9 @@ builder.Services.AddSwaggerGen(c =>
         Scheme = "Bearer",
         BearerFormat = "JWT"
     });
-
+    var filePath = Path.Combine(System.AppContext.BaseDirectory, "AuthenticationService.xml");
+    c.IncludeXmlComments(filePath);
+    c.IncludeGrpcXmlComments(filePath, includeControllerXmlComments: true);
     c.AddSecurityRequirement(new OpenApiSecurityRequirement
     {
         {
