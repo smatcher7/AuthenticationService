@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BEVoEx4PVyrjnscx8vz9o3Y69pm4b28Pz8wxi1HVIwo39UTSWBIhdpsnWHXx0+zSImN3TqeHiT8DcxCxX7rlng==",
+  "dgSpecHash": "NQ4ydTFTWIEs222PDZHZfSPBnPycYKlO4lqcXt9jtE/G9wGrIPo2wxE1vVmmC+G5P0yPE0C2wCx3FYb0EjP5ew==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ruife\\source\\repos\\AuthenticationApp\\AuthenticationService\\AuthenticationService.csproj",
+  "projectFilePath": "C:\\Users\\ruife\\Source\\Repos\\AuthenticationServiceApplication\\AuthenticationService\\AuthenticationService.Server.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ruife\\.nuget\\packages\\google.api.commonprotos\\2.5.0\\google.api.commonprotos.2.5.0.nupkg.sha512",
     "C:\\Users\\ruife\\.nuget\\packages\\google.protobuf\\3.24.0\\google.protobuf.3.24.0.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "Version": 1,
-  "Hash": "fbH5jZ2ilblg2SL4T8txl/7QutWJPFRraWStmfP57is=",
-  "Source": "AuthenticationService",
-  "BasePath": "_content/AuthenticationService",
+  "Hash": "6dW2XOGYQ6EJyh3RdRKEV5ohb+Zrr0VKAFneBK7WcbE=",
+  "Source": "AuthenticationService.Server",
+  "BasePath": "_content/AuthenticationService.Server",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],

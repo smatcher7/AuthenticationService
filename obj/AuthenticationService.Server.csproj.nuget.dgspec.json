@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ruife\\Source\\Repos\\AuthenticationServiceApplication\\AuthenticationService\\AuthenticationService.csproj": {}
+    "C:\\Users\\ruife\\Source\\Repos\\AuthenticationServiceApplication\\AuthenticationService\\AuthenticationService.Server.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ruife\\Source\\Repos\\AuthenticationServiceApplication\\AuthenticationService\\AuthenticationService.csproj": {
+    "C:\\Users\\ruife\\Source\\Repos\\AuthenticationServiceApplication\\AuthenticationService\\AuthenticationService.Server.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ruife\\Source\\Repos\\AuthenticationServiceApplication\\AuthenticationService\\AuthenticationService.csproj",
-        "projectName": "AuthenticationService",
-        "projectPath": "C:\\Users\\ruife\\Source\\Repos\\AuthenticationServiceApplication\\AuthenticationService\\AuthenticationService.csproj",
+        "projectUniqueName": "C:\\Users\\ruife\\Source\\Repos\\AuthenticationServiceApplication\\AuthenticationService\\AuthenticationService.Server.csproj",
+        "projectName": "AuthenticationService.Server",
+        "projectPath": "C:\\Users\\ruife\\Source\\Repos\\AuthenticationServiceApplication\\AuthenticationService\\AuthenticationService.Server.csproj",
         "packagesPath": "C:\\Users\\ruife\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\ruife\\Source\\Repos\\AuthenticationServiceApplication\\AuthenticationService\\obj\\",
         "projectStyle": "PackageReference",
