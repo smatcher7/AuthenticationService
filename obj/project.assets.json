@@ -2146,9 +2146,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ruife\\source\\repos\\AuthenticationApp\\AuthenticationService\\AuthenticationService.csproj",
-      "projectName": "AuthenticationService",
-      "projectPath": "C:\\Users\\ruife\\source\\repos\\AuthenticationApp\\AuthenticationService\\AuthenticationService.csproj",
+      "projectUniqueName": "C:\\Users\\ruife\\source\\repos\\AuthenticationApp\\AuthenticationService\\AuthenticationService.Server.csproj",
+      "projectName": "AuthenticationService.Server",
+      "projectPath": "C:\\Users\\ruife\\source\\repos\\AuthenticationApp\\AuthenticationService\\AuthenticationService.Server.csproj",
       "packagesPath": "C:\\Users\\ruife\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\ruife\\source\\repos\\AuthenticationApp\\AuthenticationService\\obj\\",
       "projectStyle": "PackageReference",
